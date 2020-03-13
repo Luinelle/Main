@@ -1,0 +1,52 @@
+body {
+    background-color: #DDDDDD;
+    color: #404040;
+    overflow: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    background-color: #AAAAAA;
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding-top: 30px;
+    width: 100%;
+    height: 13%;
+    text-decoration: none;
+    border-top: groove;
+    border-color: whitesmoke;
+    border-bottom: groove;
+}
+
+li {
+    float: left;
+    display: inline;
+    display: block; 
+    padding: 14px;
+    padding-bottom: 0px;
+    font-size: 18px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    border-style: groove;
+    border-radius: 90%;
+}
+
+.image {
+    float: left;
+}
+
+.column {
+    padding-right: 20px;
+}
+
